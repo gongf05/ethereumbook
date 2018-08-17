@@ -1,8 +1,9 @@
+[[ens_chapter]]
 == Ethereum Name Service (ENS)
 
 You can design the best smart contract in the world, but if you don't provide a good interface for users, they won't be able to access it.
 
-Contracts on the blockchain can be considered the backend of your application, and you can write the front-end in any language or platform you feel comfortable.
+Contracts on the blockchain can be considered the back-end of your application, and you can write the front-end in any language or platform you feel comfortable.
 
 Most of the apps you'll read about on this book currently use a traditional server model to serve that front-end, but if you want to truly decentralize your application, you can also use decentralized hosting services like bit torrent, *Swarm* or *IPFS* to also host the files required for the *front-end*.
 
@@ -26,14 +27,6 @@ On the blockchain an attempt to solve the same problem but in a decentralized ma
 Another advantage of a naming system is that it can also be used as a aliases for receiving funds or identifiers.
 
 As an example, the *Ethereum Foundation* donation contract address is *0xfB6916095ca1df60bB79Ce92cE3Ea74c37c5d359* or, in a wallet that supports ENS, it's simply *ethereum.eth*.
-
-=== Name resolution services
-
-* What is a name resolution service?
-* Why another one?
-* Why are they needed (addresses, contracts, swarm objects, etc.)
-* Benefits (security, disambiguation, redirection/upgrade, readability/user experience)
-* Concerns about squatting, trademarks, dispute resolution
 
 === History of Ethereum name services
 
