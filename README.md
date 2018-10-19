@@ -9,35 +9,15 @@ Mastering Ethereum is a book for developers, offering a guide to the operation a
 
 This repository contains the draft of the book, currently in progress, scheduled for publication in Q4'2018 by O'Reilly Media. The publication date has been delayed, unfortunately, due to some personal issues. Expect to see content developed and pushed here in Q1 and Q2 2018.
 
+## PDF Version
+
+There is no PDF version available. While it is possible to produce one, and you may do so for personal use, please **DO NOT** publish a PDF. The publishers and the authors provide a very generous open license that allows anyone to read this book for free on GitHub. It is not convenient to read that way, but it is free. Convenience, in the form of a nicely packaged PDF, ebook or printed book, is what the publishers charge money for and what pays for the publishers and authors work. Just like buying bottled water instead of drinking from the tap, buying a printed copy, PDF or ebook pays for the packaging. If you publish a PDF copy, you are violating the license, as a PDF is a derivative form and the -ND part of the license means "no derivatives". Doing so makes publishers less likely to publish with open licenses.
+
 ## Content
 
-The current status of the book is **CONTENT FREEZE - TECH REVIEW**. Only errors, fixes and typos will be accepted. Any new content submissions will be delayed for the second edition, which goes into production in late 2019 or early 2020.
+The current status of the book is **IN PRODUCTION**. No further changes will be accepted into the first edition. The final draft of this book has been delivered to the publisher for final copy edit and production work. It is scheduled for publication and first print by December 2018.
 
-Here's what is available now:
-
-| Section | Progress | Content Complete |
-|-------|------|:------:|
-| [Preface](preface.asciidoc) | #### ||
-| [Glossary](glossary.asciidoc) | ######## | :heavy_check_mark: |
-| [What is Ethereum](what-is.asciidoc) | ######### | :heavy_check_mark: |
-| [Introduction](intro.asciidoc) | ############# | :heavy_check_mark: |
-| [Ethereum Clients](clients.asciidoc) | ########## | :heavy_check_mark: |
-| [Ethereum Testnets](ethereum-testnets.asciidoc) | #### ||
-| [Keys and Addresses](keys-addresses.asciidoc) | ############# | :heavy_check_mark: |
-| [Wallets](wallets.asciidoc) | ########### | :heavy_check_mark: |
-| [Transactions](transactions.asciidoc) | ############### | :heavy_check_mark: |
-| [Smart Contracts](smart-contracts.asciidoc) | ########################## | :heavy_check_mark: |
-| [Dev Tools and Frameworks](dev-tools.asciidoc) | ########## | :heavy_check_mark: |
-| [Tokens](tokens.asciidoc) | ################### | :heavy_check_mark: |
-| [DApps](dapps.asciidoc) | #### ||
-| [Oracles](oracles.asciidoc) | ####### | :heavy_check_mark: |
-| [Accounting & Gas](gas.asciidoc) | #### | :heavy_check_mark: |
-| [EVM](evm.asciidoc) | ####### | :heavy_check_mark: |
-| [Consensus](consensus.asciidoc) | ####### | :heavy_check_mark: |
-| [Vyper](vyper.asciidoc) | ##### | :heavy_check_mark: |
-| [DevP2P Protocol](devp2p-protocol.asciidoc) | ### | :heavy_check_mark: |
-| [Ethereum Standards (EIPs/ERCs)](standards-eip-erc.asciidoc) | #### | :heavy_check_mark: |
-| [Forks History (DAO/ETC)](forks-history.asciidoc) | ###### | :heavy_check_mark: |
+Once production is completed, the repository will be tagged as "edition1_print1" and development will continue for errata, bug fixes and preparation for the second edition, which goes into production in late 2019 or early 2020.
 
 ## Contributing, reviewing and commenting
 
